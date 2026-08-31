@@ -1,0 +1,24 @@
+---
+- summary: |
+    Не адаптироавна мобильная версия
+  environment: |
+    Google Chrome	151.0.7922.108 (Официальная сборка) (64 бит)
+    ОС Windows 11 Home
+  steps-to-reproduce: |
+    Открыть мобильную версию сайта
+  expected-result: |
+    Удобная мобильная верстка
+  actual-result: |
+    Не удобная мобильная верстка
+
+- summary: |
+    Нет перевода на русский язык
+  environment: |
+    Google Chrome	151.0.7922.108 (Официальная сборка) (64 бит)
+    ОС Windows 11 Home
+  steps-to-reproduce: |
+    - Выбрать язык русский
+  expected-result: |
+    Перевод сайта н арусский язык
+  actual-result: |
+    Нет перевода на русский язык
