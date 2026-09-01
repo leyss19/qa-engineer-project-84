@@ -4,12 +4,10 @@ test-cases:
       Проверка мобильной версии
     status: fail
 
-test-cases:
   - summary: |
       Проверка декстопной версии
     status: pass
 
-  test-cases:
   - summary: |
       Проверка фильтра
     status: fail
