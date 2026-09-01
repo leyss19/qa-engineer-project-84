@@ -5,7 +5,7 @@
 
 - summary: |
     Успешное фильтрование товаров
-  status: fall
+  status: fail
 
 - summary: |
     Успешный просмотр товаров, подробная информация о товаре
@@ -21,8 +21,8 @@
 
 - summary: |
     Удобная декстопная версия
-  status: fall
+  status: fail
 
 - summary: |
     Удобная мобильная версия
-  status: fall
+  status: fail
