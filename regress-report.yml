@@ -6,7 +6,7 @@ test-cases:
 
 test-cases:
   - summary: |
-      Проверка декстопной версии версии
+      Проверка декстопной версии
     status: pass
 
   test-cases:
