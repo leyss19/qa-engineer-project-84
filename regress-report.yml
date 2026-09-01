@@ -1,0 +1,15 @@
+---
+test-cases:
+  - summary: |
+      Проверка мобильной версии
+    status: fail
+
+test-cases:
+  - summary: |
+      Проверка декстопной версии версии
+    status: pass
+
+  test-cases:
+  - summary: |
+      Проверка фильтра
+    status: fail
