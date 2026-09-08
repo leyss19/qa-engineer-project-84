@@ -11,7 +11,7 @@
   actual-result: |
     Строка поиска накладывается на кнопки, в фильтре обрезается текст. В корзине информация о списке товаров не умещается в экран, обрезана кнопка, кнопки наложены друг на друга
   screenshots: |
-    [Скриншоты](screenshots/)
+    https://github.com/USERNAME/REPOSITORY/tree/main/.github/screenshots
 
 - summary: |
     Не адаптирована декстопная версия
