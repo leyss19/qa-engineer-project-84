@@ -18,11 +18,3 @@
 - summary: |
     Успешное переключение языка интерфейса
   status: pass
-
-- summary: |
-    Удобная декстопная версия
-  status: fail
-
-- summary: |
-    Удобная мобильная версия
-  status: fail
