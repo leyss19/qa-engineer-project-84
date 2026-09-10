@@ -24,6 +24,8 @@
     Удобная декстопная верстка
   actual-result: |
     Кнопки разных размеров, выходят за пределы карточки товара, разное расположение описания, цены товара
+  screenshots: |
+    https://github.com/leyss19/qa-engineer-project-84/blob/main/screenshots.md
 
 - summary: |
     Пустые строки в фильтре
