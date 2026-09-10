@@ -11,3 +11,7 @@ test-cases:
   - summary: |
       Проверка фильтра
     status: fail
+
+  - summary: |
+      Проверка просмотра товара
+    status: fail
